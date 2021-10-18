@@ -16,6 +16,7 @@ export default function image({itemList}) {
             height= '300'
           />
         </div>
+        <div>?</div>
       ))}
     </>
   );
